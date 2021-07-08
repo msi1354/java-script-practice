@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="/J/!6s:5AerHm!3tTUP{" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="TF3fI(P2a4!4*nq[1/yb" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="control._onCodeStart(null)" numlines="1"></mutation></block></statement></block></xml>
